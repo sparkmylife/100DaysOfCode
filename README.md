@@ -2,6 +2,14 @@
 
 
 Day 1 to Day 7 - Choose a Programming Language and Learn The Fundamentals of it (2 Jan ~ 8 Jan)
+2 Jan - https://www.educative.io/courses/learn-java-from-scratch
+3 Jan - https://en.wikibooks.org/wiki/Java_Programming/Print_version
+4 Jan - https://www.coursera.org/learn/object-oriented-java?specialization=java-object-oriented
+5 Jan - https://www.coursera.org/learn/data-structures-optimizing-performance?specialization=java-object-oriented
+6 Jan - https://www.coursera.org/learn/advanced-data-structures?specialization=java-object-oriented
+7 Jan - https://www.coursera.org/learn/cs-tech-interview?specialization=java-object-oriented
+8 Jan - https://www.coursera.org/learn/algorithms-part1
+9 Jan - https://www.coursera.org/learn/algorithms-part2
 
 Day 8 to Day 14 - Learn Data Structures and Algorithms (9 Jan ~ 15 Jan)
 
